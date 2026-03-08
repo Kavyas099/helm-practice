@@ -2,4 +2,4 @@ deployment:
   replicas: 3
   imageVersion: stable-bookworm-perl
 service:
-  nodePort: 30007
+  nodePort: 30023
